@@ -45,7 +45,7 @@ const AboutSection = () => {
         <div>
           <h2 className="text-4xl font-bold mb-4 pt-10">About Me</h2>
           <p className="text-base md:text-lg">
-            My name is Nami Miyashiro, born and raised in Japan. I'm a front-end developer based in Vancouver, Canada.<br></br>
+            My name is Nami Miyashiro, born and raised in Japan. I am a front-end developer based in Vancouver, Canada.<br></br>
             I like coding, designing, cats, and traveling aroud the world.
           </p>
           <div className="flex flex-row justify-start mt-8">

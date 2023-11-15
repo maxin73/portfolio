@@ -15,7 +15,7 @@ const HeroSection = () => {
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start md:pl-10"
         >
           <h1 className="text-black mb-4 text-4xl md:text-5xl lg:text-7xl lg:leading-normal xl:text-9xlfont-extrabold">
-            <span>Hello, I'm {""}</span>
+            <span>Hello, I&apos;m {""}</span>
             <br></br>
             <TypeAnimation
               sequence={[
