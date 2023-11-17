@@ -9,8 +9,8 @@ const projectData = [
     description: "E-commerce application for customers.",
     image: "/images/projects/Ecommerce_store.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl:"/",
+    gitUrl: "https://github.com/maxin73/Program_Project-Ecommerce-Store",
+    previewUrl:"https://program-project-ecommerce-store.vercel.app/",
   },
   {
     id: 2,
@@ -18,8 +18,8 @@ const projectData = [
     description: "E-commerce application for store manegers.",
     image: "/images/projects/Ecommerce_admin.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl:"/",
+    gitUrl: "https://github.com/maxin73/Program_Project-Ecommerce-Admin",
+    previewUrl:"https://program-project-ecommerce-admin.vercel.app/",
   },
   {
     id: 3,
@@ -27,8 +27,8 @@ const projectData = [
     description: "Airbnb clone website",
     image: "/images/projects/Airbnb_clone.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl:"/",
+    gitUrl: "https://github.com/maxin73/AirbnbClone_MERN",
+    previewUrl:"https://nami-booking-app.vercel.app/",
   },
   {
     id: 4,
@@ -36,8 +36,8 @@ const projectData = [
     description: "Booking website",
     image: "/images/projects/HotelBooking.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl:"/",
+    gitUrl: "https://github.com/maxin73/Program_Project_Hotel_Frontend",
+    previewUrl:"https://program-project-hotel-frontend.vercel.app/",
   }
 ]
 
