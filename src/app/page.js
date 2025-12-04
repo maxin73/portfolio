@@ -11,6 +11,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col bg-[#ffffff]">
       <Navbar />
       <div className="container mt-24 mx-auto px-12 py-4">
+        <span>Select another language!</span>
         <HeroSection />
         <AboutSection />
         <ProjectSection />
